@@ -3,9 +3,9 @@
     <button @click="decrease">
       -
     </button>
-    <div>
+    <span>
       {{ count }}
-    </div>
+    </span>
     <button @click="increase">
       +
     </button>
